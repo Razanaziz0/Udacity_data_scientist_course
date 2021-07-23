@@ -1,10 +1,40 @@
-# Udacity_data_scientist_course
+# Airbnb Seattle Analysis
 
-## Seattle Airbnb
+This is the project of Udacity's data scientist nanodegree program
 
-Since 2008, guests and hosts have used Airbnb to travel in a more unique, personalized way. As part of the Airbnb Inside initiative, this dataset describes the listing activity of homestays in Seattle, WA.
+## Analysis Airbnb Seattle Data By CRISP-DM Process
+CRISP-DM  process(Cross-Industry Standard Process for Data Mining): is a process model describing the life cycle of data science. In short, it guides you through the entire phases of planning, organizing, and implementing your data mining project.
+## CRISP-DM process majors.
 
-The following Airbnb activity is included in this Seattle dataset:
+1-Business Understanding
+
+2-Data Understanding
+
+3-Data Preparation
+
+4-Modeling
+
+5-Evaluation
+
+6-Deployment
+
+### 1-Business Understanding
+An Airbnb is a residential property that hosts rent on a short term basis to travelers. It can be anything from a house, a single room, a boat or even a tree house. Think of it as pop-up accommodation – a market place where people rent out their properties.
+
+
+after I understand the busness I considered three below questions to explore its way.
+
+1-When do reservations increase in Seattle?
+
+2-If bookings increase is prices increase ?
+
+3-what's the room prices based on neighborhoods ?
+
+We can be able to answer these questions by analysing Airbnb dataset.
+
+
+### 2-Data Understanding
+We have three  Airbnb dataset:
 
 1-Listings, including full descriptions and average review score
 
