@@ -1,9 +1,9 @@
 # Udacity's data scientist nanodegree program 
 ## Table of Contents
 * [About Project](https://github.com/Razanaziz0/Udacity_data_scientist_course/blob/main/README.md#about-project) 
-* Installation
-* Results
-* Licensing, Authors, and Acknowledgements
+* [Installation](https://github.com/Razanaziz0/Udacity_data_scientist_course/blob/main/README.md#installation)
+* [Results](https://github.com/Razanaziz0/Udacity_data_scientist_course/blob/main/README.md#results)
+* [Licensing](https://github.com/Razanaziz0/Udacity_data_scientist_course/blob/main/README.md#licensing)
 ## About Project
 #### This is the project of Udacity's data scientist nanodegree program ,I'm going to apply the CRISP-DM process to analyze on Airbnb Seattle.
 
