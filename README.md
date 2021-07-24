@@ -14,6 +14,8 @@
 2-If bookings increase is prices increase also ?
 
 3-is the property prices change based on neighborhoods and high review scores ?
+
+In order to answer the questions, I will follow the CRISP-DM process 
 ## Installation
 
 The code was built on Python 3.8,All libraries are avilable in Anaconda distribution of Python. 
