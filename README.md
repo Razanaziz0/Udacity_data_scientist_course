@@ -14,7 +14,7 @@
 2-If bookings increase is prices increase also ?
 
 3-is the property prices change based on neighborhoods and high review scores ?
-### Installation
+## Installation
 
 The code was built on Python 3.8,All libraries are avilable in Anaconda distribution of Python. 
 
