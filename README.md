@@ -1,6 +1,6 @@
 # Udacity's data scientist nanodegree program 
 ## Table of Contents
-* About Project 
+* [About Project](https://github.com/Razanaziz0/Udacity_data_scientist_course/blob/main/README.md#about-project) 
 * Installation
 * Results
 * Licensing, Authors, and Acknowledgements
