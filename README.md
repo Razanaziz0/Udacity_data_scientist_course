@@ -26,7 +26,7 @@ the dataset from kaggle [Seattle AirBNB Data](https://www.kaggle.com/airbnb/seat
 ## Results
 The jupyter notebook contains the whole process
 
-Click to see the notebook[Notebook](https://github.com/Razanaziz0/Udacity_data_scientist_course/blob/main/Udacity_p1_notebook%20-%20Copy.ipynb)
+Click to see the [Notebook](https://github.com/Razanaziz0/Udacity_data_scientist_course/blob/main/Udacity_p1_notebook%20-%20Copy.ipynb)
 
 ## Licensing
 The Airbnb dataset is avilable in Kaggle [Seattle AirBNB Data](https://www.kaggle.com/airbnb/seattle/data).
